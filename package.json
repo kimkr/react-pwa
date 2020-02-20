@@ -44,7 +44,7 @@
     "eslint-import-resolver-webpack": "^0.12.0",
     "fork-ts-checker-webpack-plugin": "^4.0.1",
     "prop-types": "^15.7.2",
-    "snyk": "^1.258.1",
+    "snyk": "^1.294.1",
     "universal-fetch": "^1.0.0"
   },
   "snyk": true,
